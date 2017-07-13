@@ -1,0 +1,91 @@
+*********************
+
+Command requested: movie-this matrix revolutions 
+
+*********************
+Title of the movie: The Matrix Revolutions Revisited
+Year of the movie: 2004
+The movie's rating is: 5.8
+There is no Rotten Tomatoes rating for this movie.
+Country where movie was produced: USA
+Language of the movie: English
+Plot of the movie: N/A
+Actors in the movie: N/A
+*********************
+Command requested: movie-this matrix revolutions 
+*********************
+Title of the movie: The Matrix Revolutions Revisited
+Year of the movie: 2004
+The movie's rating is: 5.8
+There is no Rotten Tomatoes rating for this movie.
+Country where movie was produced: USA
+Language of the movie: English
+Plot of the movie: N/A
+Actors in the movie: N/A
+
+*********************
+*Command requested: movie-this matrix revolutions 
+*********************
+Title of the movie: The Matrix Revolutions Revisited
+Year of the movie: 2004
+The movie's rating is: 5.8
+There is no Rotten Tomatoes rating for this movie.
+Country where movie was produced: USA
+Language of the movie: English
+Plot of the movie: N/A
+Actors in the movie: N/A
+
+*******************************
+Command requested: movie-this matrix revolutions 
+*******************************
+Title of the movie: The Matrix Revolutions Revisited
+Year of the movie: 2004
+The movie's rating is: 5.8
+There is no Rotten Tomatoes rating for this movie.
+Country where movie was produced: USA
+Plot of the movie: N/A
+Language of the movie: English
+Actors in the movie: N/A
+
+*******************************
+Command requested: my-tweets 
+*******************************
+Tweet created at: "Wed Jul 12 23:24:08 +0000 2017" Tweet: "Big WIN today for building the wall. It will secure the border &amp; save lives. Now the full House &amp; Senate must act!… https://t.co/DuZcyhYck8"
+
+Tweet created at: "Wed Jul 12 23:12:03 +0000 2017" Tweet: "JOBS, JOBS, JOBS! #MAGA🇺🇸 https://t.co/HScS4Y9ZJK"
+
+Tweet created at: "Wed Jul 12 23:06:19 +0000 2017" Tweet: "Stock market hits another high with spirit and enthusiasm so positive. Jobs outlook looking very good! #MAGA🇺🇸 https://t.co/Vwxsb2vWGe"
+
+Tweet created at: "Wed Jul 12 22:35:53 +0000 2017" Tweet: "Getting rdy to leave for France @ the invitation of President Macron to celebrate &amp; honor Bastille Day and 100yrs since U.S. entry into WWI."
+
+Tweet created at: "Wed Jul 12 20:20:56 +0000 2017"
+ Tweet: "\"After 14 years, U.S. beef hits Chinese market. Trade deal an exciting opportunity for agriculture.\" https://t.co/gDGgejqFMs"
+Tweet created at: "Wed Jul 12 13:39:25 +0000 2017" Tweet: "The W.H. is functioning perfectly, focused on HealthCare, Tax Cuts/Reform &amp; many other things. I have very little time for watching T.V."
+
+Tweet created at: "Wed Jul 12 13:27:03 +0000 2017" Tweet: "Why aren't the same standards placed on the Democrats. Look what Hillary Clinton may have gotten away with. Disgraceful!"
+
+Tweet created at: "Wed Jul 12 12:12:42 +0000 2017" Tweet: ".@WashTimes states \"Democrats have willfully used Moscow disinformation to influence the presidential election against Donald Trump.\""
+
+Tweet created at: "Wed Jul 12 11:05:53 +0000 2017" Tweet: "ISIS is on the run &amp; will soon be wiped out of Syria &amp; Iraq, illegal border crossings are way down (75%) &amp; MS 13 gangs are being removed."
+
+Tweet created at: "Wed Jul 12 10:40:32 +0000 2017" Tweet: "RT @foxandfriends: Getting the job done! Sen. Mitch McConnell delays August recess to work on health care bill https://t.co/wBjha8ldeK"
+
+Tweet created at: "Wed Jul 12 10:32:56 +0000 2017" Tweet: "Remember, when you hear the words \"sources say\" from the Fake Media, often times those sources are made up and do not exist."
+
+Tweet created at: "Wed Jul 12 10:19:32 +0000 2017" Tweet: "My son Donald did a good job last night. He was open, transparent and innocent. This is the greatest Witch Hunt in political history. Sad!"
+
+Tweet created at: "Wed Jul 12 09:55:47 +0000 2017" Tweet: "RT @FoxNews: .@jessebwatters on @DonaldJTrumpJr meeting with Russian attorney: \"I believe Don Jr. is the victim here.\" #TheFive https://t.c…"
+
+Tweet created at: "Wed Jul 12 00:24:10 +0000 2017" Tweet: "My son, Donald, will be interviewed by @seanhannity tonight at 10:00 P.M. He is a great person who loves our country!"
+
+Tweet created at: "Tue Jul 11 12:57:47 +0000 2017" Tweet: "RT @foxandfriends: FOX NEWS ALERT: U.S. flexes its defense muscles, destroys incoming test missile off coast of Alaska https://t.co/gdpnc6a…"
+
+Tweet created at: "Tue Jul 11 12:23:45 +0000 2017" Tweet: "Big wins against ISIS!"
+
+Tweet created at: "Tue Jul 11 12:09:22 +0000 2017" Tweet: "Marine Plane crash in Mississippi is heartbreaking. Melania and I send our deepest condolences to all!"
+
+Tweet created at: "Tue Jul 11 11:46:00 +0000 2017" Tweet: "Working hard to get the Olympics for the United States (L.A.). Stay tuned!"
+
+Tweet created at: "Tue Jul 11 10:59:58 +0000 2017" Tweet: "The Senate Democrats have only confirmed 48 of 197 Presidential Nominees. They  can't win so all they do is slow things down &amp; obstruct!"
+
+Tweet created at: "Tue Jul 11 10:49:16 +0000 2017" Tweet: "RT @foxandfriends: SEN. CRUZ: It's crazy to go an August recess without having Obamacare repealed. We should work every day until it is don…"
