@@ -1,91 +1,1198 @@
-*********************
-
-Command requested: movie-this matrix revolutions 
-
-*********************
-Title of the movie: The Matrix Revolutions Revisited
-Year of the movie: 2004
-The movie's rating is: 5.8
-There is no Rotten Tomatoes rating for this movie.
-Country where movie was produced: USA
-Language of the movie: English
-Plot of the movie: N/A
-Actors in the movie: N/A
-*********************
-Command requested: movie-this matrix revolutions 
-*********************
-Title of the movie: The Matrix Revolutions Revisited
-Year of the movie: 2004
-The movie's rating is: 5.8
-There is no Rotten Tomatoes rating for this movie.
-Country where movie was produced: USA
-Language of the movie: English
-Plot of the movie: N/A
-Actors in the movie: N/A
-
-*********************
-*Command requested: movie-this matrix revolutions 
-*********************
-Title of the movie: The Matrix Revolutions Revisited
-Year of the movie: 2004
-The movie's rating is: 5.8
-There is no Rotten Tomatoes rating for this movie.
-Country where movie was produced: USA
-Language of the movie: English
-Plot of the movie: N/A
-Actors in the movie: N/A
 
 *******************************
-Command requested: movie-this matrix revolutions 
+Command requested: spotify-this-song fascination 
 *******************************
-Title of the movie: The Matrix Revolutions Revisited
-Year of the movie: 2004
-The movie's rating is: 5.8
+Artist(s): The Cure
+Song Name: Fascination Street
+Preview URL: https://p.scdn.co/mp3-preview/db6e130dfc4a621251dda048b75f603e6c127d84?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Disintegration (Deluxe Edition [Remastered])
+
+Artist(s): Pretty Lights
+Preview URL: https://p.scdn.co/mp3-preview/788e3161ba0690fc9ffc0edaaf86e7cbf8619a3c?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Song Name: Total Fascination
+Album: Making up a Changing Mind
+
+Artist(s): The Human League
+Song Name: Don't You Want Me
+Album: Dare/Fascination! (2012 - Remaster)
+
+Preview URL: null
+Artist(s): Breathe Carolina
+Song Name: Hello Fascination
+Album: Hello Fascination
+
+Preview URL: null
+Artist(s): Nat King Cole
+Song Name: Fascination
+Preview URL: https://p.scdn.co/mp3-preview/771b89cfcb74b62ef0cd0b4efadf322ec97c5383?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Musical Moments to Remember: Nat King Cole (Recordings 1949-1961)
+
+Artist(s): The Human League
+Song Name: (Keep Feeling) Fascination
+Preview URL: null
+Album: Countdown To The New Year
+
+Artist(s): The Human League
+Song Name: (Keep Feeling) Fascination
+Preview URL: null
+Album: The Greatest Hits
+
+Artist(s): The Cure
+Song Name: Fascination Street
+Preview URL: https://p.scdn.co/mp3-preview/db6e130dfc4a621251dda048b75f603e6c127d84?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Disintegration (Remastered)
+
+Artist(s): The Human League
+Song Name: Fascination - Extended Remix
+Preview URL: null
+Album: Fascination!
+
+Artist(s): Breathe Carolina
+Song Name: I.D.G.A.F
+Preview URL: null
+Album: Hello Fascination
+
+Artist(s): Alphabeat
+Song Name: Fascination
+Preview URL: null
+Album: This Is Alphabeat
+
+Artist(s): La Roux
+Song Name: Fascination
+Preview URL: null
+Album: La Roux
+
+Artist(s): Fausto Papetti
+Song Name: Fascination
+Preview URL: https://p.scdn.co/mp3-preview/69d323c4f8a5eca7ca3c510c09604fa6881a672e?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: 50 Love Songs
+
+Artist(s): David Bowie
+Song Name: Fascination - 2016 Remastered Version
+Preview URL: https://p.scdn.co/mp3-preview/f4db84797160fc23a6c589b007c4f3981c2e1724?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Young Americans (2016 Remastered Version)
+
+Artist(s): Breathe Carolina
+Song Name: The Dressing Room
+Preview URL: null
+Album: Hello Fascination
+
+Artist(s): The Human League
+Song Name: Mirror Man
+Preview URL: null
+Album: Fascination!
+
+Artist(s): Breathe Carolina
+Song Name: Dressed Up To Undress
+Preview URL: null
+Album: Hello Fascination
+
+Artist(s): The Human League
+Song Name: Seconds
+Preview URL: null
+Album: Dare/Fascination! (2012 - Remaster)
+
+Artist(s): The Cure
+Song Name: Fascination Street
+Album: Galore
+
+Preview URL: https://p.scdn.co/mp3-preview/27e6dfd928932b08aab981d496560313303a14f1?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Breathe Carolina
+Song Name: I'm The Type Of Person To Take It Personal
+Preview URL: null
+Album: Hello Fascination
+
+*******************************
+Command requested: spotify-this-song U2 
+*******************************
+Artist(s): Kendrick Lamar
+Artist(s): U2
+Preview URL: null
+Song Name: XXX. FEAT. U2.
+Album: DAMN.
+
+Artist(s): U2
+Song Name: With Or Without You
+Preview URL: null
+Album: The Joshua Tree (Deluxe)
+
+Artist(s): U2
+Song Name: Beautiful Day
+Preview URL: null
+Album: All That You Can't Leave Behind
+
+Artist(s): U2
+Song Name: I Still Haven't Found What I'm Looking For
+Album: The Joshua Tree (Super Deluxe)
+
+Preview URL: null
+Artist(s): U2
+Song Name: One
+Album: Achtung Baby
+
+Preview URL: null
+Artist(s): U2
+Song Name: Sunday Bloody Sunday - Remastered 2008
+Preview URL: null
+Album: War (Remastered)
+
+Artist(s): U2
+Song Name: Where The Streets Have No Name
+Preview URL: null
+Album: The Joshua Tree (Super Deluxe)
+
+Artist(s): U2
+Song Name: Pride (In The Name Of Love) - Remastered 2009
+Preview URL: null
+Album: The Unforgettable Fire (Remastered)
+
+Artist(s): U2
+Song Name: I Still Haven't Found What I'm Looking For
+Preview URL: null
+Album: The Joshua Tree (Deluxe)
+
+Artist(s): U2
+Song Name: Beautiful Day
+Preview URL: null
+Album: The Best Of 1990-2000
+
+Artist(s): U2
+Preview URL: null
+Song Name: Vertigo
+Album: How To Dismantle An Atomic Bomb
+
+Artist(s): U2
+Song Name: Mysterious Ways
+Preview URL: null
+Album: Achtung Baby
+
+Artist(s): U2
+Song Name: With Or Without You - Remastered 2007
+Preview URL: null
+Album: The Joshua Tree
+
+Artist(s): U2
+Song Name: Ordinary Love
+Album: Mandela – Long Walk To Freedom (Original Motion Picture Soundtrack)
+
+Preview URL: null
+Artist(s): Kendrick Lamar
+Artist(s): U2
+Song Name: XXX. FEAT. U2.
+Preview URL: null
+Album: DAMN.
+
+Artist(s): U2
+Song Name: Where The Streets Have No Name - Remastered 2007
+Preview URL: null
+Album: The Joshua Tree
+
+Artist(s): U2
+Song Name: I Still Haven't Found What I'm Looking For - Remastered 2007
+Preview URL: null
+Album: The Joshua Tree
+
+Artist(s): U2
+Song Name: All I Want Is You
+Preview URL: null
+Album: Rattle And Hum
+
+Artist(s): U2
+Song Name: Every Breaking Wave
+Preview URL: null
+Album: Songs Of Innocence (Deluxe)
+
+Artist(s): U2
+Song Name: City Of Blinding Lights
+Preview URL: null
+Album: How To Dismantle An Atomic Bomb
+
+*******************************
+Command requested: spotify-this-song youre the one 
+*******************************
+Artist(s): KAYTRANADA
+Artist(s): Syd
+Song Name: YOU'RE THE ONE
+Album: 99.9%
+
+Preview URL: https://p.scdn.co/mp3-preview/ba855fc4a56715e3110abdc7c01f9c330e57d6a8?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Alabama
+Song Name: If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)
+Album: Ultimate Alabama 20 # 1 Hits
+
+Preview URL: https://p.scdn.co/mp3-preview/8798c9f04e7ba72f5d4671c35f6a3c8818db2682?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): John Mayer
+Song Name: You're Gonna Live Forever in Me
+Preview URL: https://p.scdn.co/mp3-preview/f909b72235fbbfe7dd930d083f9e9fa4bddcc702?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: The Search for Everything - Wave One
+
+Artist(s): Shania Twain
+Song Name: You're Still The One
+Preview URL: null
+Album: Come On Over
+
+Artist(s): Elvis Presley
+Song Name: (You're The) Devil in Disguise
+Preview URL: https://p.scdn.co/mp3-preview/161c6a70877238f9f897f04efbbe0d09e497fb51?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Elvis 30 #1 Hits
+
+Artist(s): Arctic Monkeys
+Song Name: You're So Dark
+Preview URL: https://p.scdn.co/mp3-preview/417c21a5c51e3df7290660b76051a0c38ec03751?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: One For The Road
+
+Artist(s): The Black Keys
+Song Name: You're the One
+Preview URL: https://p.scdn.co/mp3-preview/08bafd17a101467a21026c30ec2c5c50a5820468?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Magic Potion
+
+Artist(s): Glee Cast
+Song Name: You're The One That I Want (Glee Cast Version)
+Preview URL: https://p.scdn.co/mp3-preview/78213dca440d97c53030a21a093927d12d2e2e06?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Glee: The Music presents Glease
+
+Artist(s): The Maine
+Song Name: You're Still the One
+Preview URL: https://p.scdn.co/mp3-preview/e7ea690a2152542a5448b83c5171933033de18fd?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Covers (Side B)
+
+Artist(s): Ambrosia
+Artist(s): Michael Verdick
+Song Name: You're The Only Woman - You & I
+Album: One Eighty
+
+Preview URL: https://p.scdn.co/mp3-preview/c8ffa80fb4fe60dec5fd3beb455a0f4f86ef6f34?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Crosby, Stills & Nash
+Song Name: Love the One You're With
+Preview URL: https://p.scdn.co/mp3-preview/3a288b4ba7365975126f60e083ecf3b707307433?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Replay
+
+Artist(s): John Travolta
+Artist(s): Olivia Newton-John
+Album: Grease
+
+Preview URL: null
+Song Name: You're The One That I Want
+Artist(s): Alex & Sierra
+Song Name: You're The One That I Want
+Album: As Seen On TV
+
+Preview URL: https://p.scdn.co/mp3-preview/feb9e08a179699ea1156835bd5f09d2b41f7d1cb?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Diana Ross & The Supremes
+Song Name: Love Is Here And Now You're Gone
+Preview URL: null
+Album: Motown: The Complete No. 1's
+
+Artist(s): D-Train
+Song Name: Youre the One for Me - Radio Mix
+Preview URL: https://p.scdn.co/mp3-preview/30c1abaf62dc8ba37177bf49073cb0fd60a36135?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: You're the One For Me EP
+
+Artist(s): Empire Cast
+Song Name: You're So Beautiful (White Party Version) [feat. Jussie Smollett]
+Preview URL: https://p.scdn.co/mp3-preview/d81b68b1e7bfd230247eef989839e1c29d1a0700?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Empire: The Complete Season 1
+
+Artist(s): John Travolta
+Artist(s): Olivia Newton-John
+Song Name: You're The One That I Want
+Preview URL: null
+Album: Back To Basics: The Essential Collection 1971-1992
+
+Artist(s): John Travolta
+Artist(s): Olivia Newton-John
+Preview URL: null
+Song Name: You're The One That I Want - From “Grease” Soundtrack
+Album: Gold
+
+Artist(s): Emblem3
+Song Name: Chloe (You're the One I Want)
+Preview URL: https://p.scdn.co/mp3-preview/2ed620ae4c96286cb9d8cd59d4d236d6b74d3739?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Nothing To Lose (Deluxe Version)
+
+Artist(s): Empire Cast
+Song Name: You're So Beautiful (Full Cast Version) [feat. Estelle, Terrence Howard, Jussie Smollett, Yazz and Serayah McNeill]
+Preview URL: https://p.scdn.co/mp3-preview/c8ef6b91c31b6b3366e7071e906955985c6f8185?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Empire: The Complete Season 1
+
+*******************************
+Command requested: spotify-this-song justin bieber u2 
+*******************************
+*******************************
+Command requested: spotify-this-song justin bieber 
+*******************************
+Artist(s): Luis Fonsi
+Artist(s): Daddy Yankee
+Artist(s): Justin Bieber
+Song Name: Despacito - Remix
+Preview URL: null
+Album: Despacito Feat. Justin Bieber (Remix)
+
+Artist(s): DJ Khaled
+Artist(s): Justin Bieber
+Artist(s): Quavo
+Artist(s): Chance The Rapper
+Artist(s): Lil Wayne
+Song Name: I'm the One
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: I'm the One
+
+Artist(s): David Guetta
+Artist(s): Justin Bieber
+Song Name: 2U
+Preview URL: null
+Album: 2U
+
+Artist(s): Chance The Rapper
+Artist(s): Justin Bieber
+Artist(s): Towkio
+Song Name: Juke Jam (feat. Justin Bieber & Towkio)
+Preview URL: https://p.scdn.co/mp3-preview/c60b5e2b4e87e46243c83c1fa0c3a5f0cb2f890b?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Coloring Book
+
+Artist(s): Jack Ü
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Song Name: Where Are Ü Now (with Justin Bieber)
+Preview URL: https://p.scdn.co/mp3-preview/edd7282e93a954b2b48cfc136aa63b0396c16406?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Skrillex and Diplo present Jack Ü
+
+Artist(s): DJ Khaled
+Artist(s): Justin Bieber
+Artist(s): Quavo
+Artist(s): Chance The Rapper
+Artist(s): Lil Wayne
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Song Name: I'm the One
+Album: Grateful
+
+Artist(s): Justin Bieber
+Song Name: Love Yourself
+Album: Purpose (Deluxe)
+
+Preview URL: null
+Artist(s): DJ Snake
+Artist(s): Justin Bieber
+Song Name: Let Me Love You
+Preview URL: null
+Album: Encore
+
+Artist(s): Justin Bieber
+Song Name: Sorry
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Post Malone
+Artist(s): Justin Bieber
+Song Name: Deja Vu
+Preview URL: null
+Artist(s): Major Lazer
+Album: Stoney (Deluxe)
+
+Artist(s): MØ
+Artist(s): Justin Bieber
+Preview URL: null
+Song Name: Cold Water
+Album: Cold Water
+
+Artist(s): Justin Bieber
+Song Name: What Do You Mean?
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Song Name: Company
+Album: Purpose (Deluxe)
+
+Preview URL: null
+Artist(s): Justin Bieber
+Song Name: Purpose
+Album: Purpose (Deluxe)
+
+Preview URL: null
+Artist(s): Justin Bieber
+Song Name: I'll Show You
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Artist(s): Ludacris
+Song Name: Baby
+Preview URL: null
+Album: My World 2.0
+
+Artist(s): Justin Bieber
+Song Name: Boyfriend
+Album: Believe
+
+Preview URL: null
+Artist(s): Justin Bieber
+Artist(s): Halsey
+Song Name: The Feeling
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Trey Songz
+Artist(s): Justin Bieber
+Song Name: Foreign Remix (feat. Justin Bieber)
+Preview URL: https://p.scdn.co/mp3-preview/94b685506a5f98a043e698ff3e0ebbf10b7fee3e?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Jack Ü
+Album: Trigga Reloaded
+
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Artist(s): Marshmello
+Song Name: Where Are Ü Now (with Justin Bieber) - Marshmello Remix
+Album: Where Are Ü Now (with Justin Bieber) [Remixes]
+
+Preview URL: https://p.scdn.co/mp3-preview/22acb0cc2e36944ad0f5c686e1ac13e06f9af086?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+*******************************
+Command requested: spotify-this-song justin bieber 
+*******************************
+Artist(s): Luis Fonsi
+Artist(s): Daddy Yankee
+Artist(s): Justin Bieber
+Song Name: Despacito - Remix
+Preview URL: null
+Album: Despacito Feat. Justin Bieber (Remix)
+
+Artist(s): DJ Khaled
+Artist(s): Justin Bieber
+Artist(s): Quavo
+Artist(s): Chance The Rapper
+Artist(s): Lil Wayne
+Song Name: I'm the One
+Album: I'm the One
+
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): David Guetta
+Artist(s): Justin Bieber
+Song Name: 2U
+Preview URL: null
+Album: 2U
+
+Artist(s): Chance The Rapper
+Artist(s): Justin Bieber
+Artist(s): Towkio
+Song Name: Juke Jam (feat. Justin Bieber & Towkio)
+Preview URL: https://p.scdn.co/mp3-preview/c60b5e2b4e87e46243c83c1fa0c3a5f0cb2f890b?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Jack Ü
+Album: Coloring Book
+
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Song Name: Where Are Ü Now (with Justin Bieber)
+Preview URL: https://p.scdn.co/mp3-preview/edd7282e93a954b2b48cfc136aa63b0396c16406?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Skrillex and Diplo present Jack Ü
+
+Artist(s): DJ Khaled
+Artist(s): Justin Bieber
+Artist(s): Quavo
+Artist(s): Chance The Rapper
+Artist(s): Lil Wayne
+Song Name: I'm the One
+Album: Grateful
+
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Justin Bieber
+Song Name: Love Yourself
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): DJ Snake
+Artist(s): Justin Bieber
+Song Name: Let Me Love You
+Preview URL: null
+Album: Encore
+
+Artist(s): Justin Bieber
+Song Name: Sorry
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Post Malone
+Artist(s): Justin Bieber
+Song Name: Deja Vu
+Preview URL: null
+Album: Stoney (Deluxe)
+
+Artist(s): Major Lazer
+Artist(s): MØ
+Artist(s): Justin Bieber
+Preview URL: null
+Song Name: Cold Water
+Album: Cold Water
+
+Artist(s): Justin Bieber
+Song Name: What Do You Mean?
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Song Name: Company
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Song Name: Purpose
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Song Name: I'll Show You
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Artist(s): Ludacris
+Song Name: Baby
+Preview URL: null
+Album: My World 2.0
+
+Artist(s): Justin Bieber
+Song Name: Boyfriend
+Preview URL: null
+Album: Believe
+
+Artist(s): Trey Songz
+Artist(s): Justin Bieber
+Song Name: Foreign Remix (feat. Justin Bieber)
+Album: Trigga Reloaded
+
+Preview URL: https://p.scdn.co/mp3-preview/94b685506a5f98a043e698ff3e0ebbf10b7fee3e?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Justin Bieber
+Artist(s): Halsey
+Song Name: The Feeling
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Jack Ü
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Artist(s): Marshmello
+Song Name: Where Are Ü Now (with Justin Bieber) - Marshmello Remix
+Album: Where Are Ü Now (with Justin Bieber) [Remixes]
+
+Preview URL: https://p.scdn.co/mp3-preview/22acb0cc2e36944ad0f5c686e1ac13e06f9af086?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+*******************************
+Command requested: spotify-this-song justin bieber 
+*******************************
+Artist(s): Luis Fonsi
+Artist(s): Daddy Yankee
+Artist(s): Justin Bieber
+Song Name: Despacito - Remix
+Preview URL: null
+Album: Despacito Feat. Justin Bieber (Remix)
+
+Artist(s): DJ Khaled
+Artist(s): Quavo
+Artist(s): Justin Bieber
+Artist(s): Chance The Rapper
+Song Name: I'm the One
+Artist(s): Lil Wayne
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: I'm the One
+
+Artist(s): David Guetta
+Artist(s): Justin Bieber
+Song Name: 2U
+Preview URL: null
+Album: 2U
+
+Artist(s): Chance The Rapper
+Artist(s): Justin Bieber
+Artist(s): Towkio
+Song Name: Juke Jam (feat. Justin Bieber & Towkio)
+Preview URL: https://p.scdn.co/mp3-preview/c60b5e2b4e87e46243c83c1fa0c3a5f0cb2f890b?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Coloring Book
+
+Artist(s): Jack Ü
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Song Name: Where Are Ü Now (with Justin Bieber)
+Preview URL: https://p.scdn.co/mp3-preview/edd7282e93a954b2b48cfc136aa63b0396c16406?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Skrillex and Diplo present Jack Ü
+
+Artist(s): DJ Khaled
+Artist(s): Justin Bieber
+Artist(s): Quavo
+Artist(s): Lil Wayne
+Artist(s): Chance The Rapper
+Song Name: I'm the One
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Grateful
+
+Artist(s): Justin Bieber
+Song Name: Love Yourself
+Album: Purpose (Deluxe)
+
+Preview URL: null
+Artist(s): DJ Snake
+Artist(s): Justin Bieber
+Song Name: Let Me Love You
+Preview URL: null
+Album: Encore
+
+Artist(s): Justin Bieber
+Song Name: Sorry
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Post Malone
+Artist(s): Justin Bieber
+Song Name: Deja Vu
+Album: Stoney (Deluxe)
+
+Preview URL: null
+Artist(s): Major Lazer
+Artist(s): MØ
+Artist(s): Justin Bieber
+Preview URL: null
+Song Name: Cold Water
+Album: Cold Water
+
+Artist(s): Justin Bieber
+Song Name: What Do You Mean?
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Song Name: Company
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Song Name: Purpose
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Song Name: I'll Show You
+Album: Purpose (Deluxe)
+
+Artist(s): Justin Bieber
+Preview URL: null
+Artist(s): Ludacris
+Song Name: Baby
+Preview URL: null
+Album: My World 2.0
+
+Artist(s): Justin Bieber
+Song Name: Boyfriend
+Preview URL: null
+Album: Believe
+
+Artist(s): Trey Songz
+Artist(s): Justin Bieber
+Song Name: Foreign Remix (feat. Justin Bieber)
+Preview URL: https://p.scdn.co/mp3-preview/94b685506a5f98a043e698ff3e0ebbf10b7fee3e?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Trigga Reloaded
+
+Artist(s): Justin Bieber
+Artist(s): Halsey
+Song Name: The Feeling
+Preview URL: null
+Album: Purpose (Deluxe)
+
+Artist(s): Jack Ü
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Artist(s): Marshmello
+Song Name: Where Are Ü Now (with Justin Bieber) - Marshmello Remix
+Album: Where Are Ü Now (with Justin Bieber) [Remixes]
+
+Preview URL: https://p.scdn.co/mp3-preview/22acb0cc2e36944ad0f5c686e1ac13e06f9af086?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+*******************************
+Command requested: spotify-this-song justin bieber 
+*******************************
+Artist(s): Luis Fonsi
+Artist(s): Daddy Yankee
+Artist(s): Justin Bieber
+Song Name: Despacito - Remix
+Preview URL: null
+Album: Despacito Feat. Justin Bieber (Remix)
+Artist(s): DJ Khaled
+Artist(s): Justin Bieber
+Artist(s): Quavo
+Artist(s): Chance The Rapper
+Artist(s): Lil Wayne
+Song Name: I'm the One
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: I'm the One
+Artist(s): David Guetta
+Artist(s): Justin Bieber
+Song Name: 2U
+Preview URL: null
+Album: 2U
+Artist(s): Chance The Rapper
+Artist(s): Justin Bieber
+Artist(s): Towkio
+Song Name: Juke Jam (feat. Justin Bieber & Towkio)
+Preview URL: https://p.scdn.co/mp3-preview/c60b5e2b4e87e46243c83c1fa0c3a5f0cb2f890b?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Coloring Book
+Artist(s): Jack Ü
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Preview URL: https://p.scdn.co/mp3-preview/edd7282e93a954b2b48cfc136aa63b0396c16406?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Skrillex and Diplo present Jack Ü
+Song Name: Where Are Ü Now (with Justin Bieber)
+Artist(s): DJ Khaled
+Artist(s): Justin Bieber
+Artist(s): Quavo
+Artist(s): Chance The Rapper
+Artist(s): Lil Wayne
+Song Name: I'm the One
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Grateful
+Artist(s): Justin Bieber
+Song Name: Love Yourself
+Preview URL: null
+Album: Purpose (Deluxe)
+Artist(s): DJ Snake
+Artist(s): Justin Bieber
+Song Name: Let Me Love You
+Preview URL: null
+Album: Encore
+Artist(s): Justin Bieber
+Song Name: Sorry
+Preview URL: null
+Album: Purpose (Deluxe)
+Artist(s): Post Malone
+Artist(s): Justin Bieber
+Song Name: Deja Vu
+Preview URL: null
+Album: Stoney (Deluxe)
+Artist(s): Major Lazer
+Artist(s): MØ
+Artist(s): Justin Bieber
+Preview URL: null
+Song Name: Cold Water
+Album: Cold Water
+Artist(s): Justin Bieber
+Song Name: What Do You Mean?
+Preview URL: null
+Album: Purpose (Deluxe)
+Artist(s): Justin Bieber
+Song Name: Company
+Preview URL: null
+Album: Purpose (Deluxe)
+Artist(s): Justin Bieber
+Song Name: Purpose
+Preview URL: null
+Album: Purpose (Deluxe)
+Artist(s): Justin Bieber
+Song Name: I'll Show You
+Album: Purpose (Deluxe)
+Preview URL: null
+Artist(s): Justin Bieber
+Artist(s): Ludacris
+Song Name: Baby
+Album: My World 2.0
+Preview URL: null
+Artist(s): Justin Bieber
+Song Name: Boyfriend
+Preview URL: null
+Album: Believe
+Artist(s): Trey Songz
+Artist(s): Justin Bieber
+Song Name: Foreign Remix (feat. Justin Bieber)
+Preview URL: https://p.scdn.co/mp3-preview/94b685506a5f98a043e698ff3e0ebbf10b7fee3e?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Trigga Reloaded
+Artist(s): Justin Bieber
+Artist(s): Halsey
+Song Name: The Feeling
+Preview URL: null
+Album: Purpose (Deluxe)
+Artist(s): Jack Ü
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Artist(s): Marshmello
+Song Name: Where Are Ü Now (with Justin Bieber) - Marshmello Remix
+Preview URL: https://p.scdn.co/mp3-preview/22acb0cc2e36944ad0f5c686e1ac13e06f9af086?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Where Are Ü Now (with Justin Bieber) [Remixes]
+*******************************
+Command requested: spotify-this-song justin bieber 
+*******************************
+Artist(s): Luis Fonsi
+Artist(s): Daddy Yankee
+Artist(s): Justin Bieber
+Song Name: Despacito - Remix
+Preview URL: null
+Album: Despacito Feat. Justin Bieber (Remix)
+Artist(s): DJ Khaled
+Artist(s): Justin Bieber
+Artist(s): Quavo
+Artist(s): Chance The Rapper
+Artist(s): Lil Wayne
+Song Name: I'm the One
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: I'm the One
+Artist(s): David Guetta
+Artist(s): Justin Bieber
+Song Name: 2U
+Preview URL: null
+Album: 2U
+Artist(s): Chance The Rapper
+Artist(s): Justin Bieber
+Artist(s): Towkio
+Song Name: Juke Jam (feat. Justin Bieber & Towkio)
+Preview URL: https://p.scdn.co/mp3-preview/c60b5e2b4e87e46243c83c1fa0c3a5f0cb2f890b?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Coloring Book
+Artist(s): Jack Ü
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Song Name: Where Are Ü Now (with Justin Bieber)
+Preview URL: https://p.scdn.co/mp3-preview/edd7282e93a954b2b48cfc136aa63b0396c16406?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Skrillex and Diplo present Jack Ü
+Artist(s): DJ Khaled
+Artist(s): Justin Bieber
+Artist(s): Quavo
+Artist(s): Chance The Rapper
+Artist(s): Lil Wayne
+Song Name: I'm the One
+Preview URL: https://p.scdn.co/mp3-preview/f6fdecfbaae1ed54bcfbae1bc2b088e8807c9783?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Grateful
+Artist(s): Justin Bieber
+Song Name: Love Yourself
+Preview URL: null
+Album: Purpose (Deluxe)
+Artist(s): DJ Snake
+Artist(s): Justin Bieber
+Song Name: Let Me Love You
+Preview URL: null
+Album: Encore
+Artist(s): Justin Bieber
+Song Name: Sorry
+Preview URL: null
+Album: Purpose (Deluxe)
+Artist(s): Post Malone
+Artist(s): Justin Bieber
+Preview URL: null
+Album: Stoney (Deluxe)
+Song Name: Deja Vu
+Artist(s): Major Lazer
+Artist(s): MØ
+Artist(s): Justin Bieber
+Song Name: Cold Water
+Preview URL: null
+Album: Cold Water
+Artist(s): Justin Bieber
+Song Name: What Do You Mean?
+Preview URL: null
+Album: Purpose (Deluxe)
+Artist(s): Justin Bieber
+Song Name: Company
+Album: Purpose (Deluxe)
+Preview URL: null
+Artist(s): Justin Bieber
+Song Name: Purpose
+Album: Purpose (Deluxe)
+Preview URL: null
+Artist(s): Justin Bieber
+Song Name: I'll Show You
+Album: Purpose (Deluxe)
+Preview URL: null
+Artist(s): Justin Bieber
+Artist(s): Ludacris
+Song Name: Baby
+Preview URL: null
+Album: My World 2.0
+Artist(s): Justin Bieber
+Song Name: Boyfriend
+Album: Believe
+Preview URL: null
+Artist(s): Trey Songz
+Artist(s): Justin Bieber
+Song Name: Foreign Remix (feat. Justin Bieber)
+Preview URL: https://p.scdn.co/mp3-preview/94b685506a5f98a043e698ff3e0ebbf10b7fee3e?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Trigga Reloaded
+Artist(s): Justin Bieber
+Artist(s): Halsey
+Preview URL: null
+Album: Purpose (Deluxe)
+Song Name: The Feeling
+Artist(s): Jack Ü
+Artist(s): Skrillex
+Artist(s): Diplo
+Artist(s): Justin Bieber
+Artist(s): Marshmello
+Album: Where Are Ü Now (with Justin Bieber) [Remixes]
+Preview URL: https://p.scdn.co/mp3-preview/22acb0cc2e36944ad0f5c686e1ac13e06f9af086?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Song Name: Where Are Ü Now (with Justin Bieber) - Marshmello Remix
+*******************************
+Command requested: spotify-this-song i want it that way 
+*******************************
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: The Hits--Chapter One
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: The Essential Backstreet Boys
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Millennium
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: 90 Sweet 90s Hits!
+Artist(s): Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s): Anthem Lights
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Covers Part IV
+Artist(s): Dynamite Boy
+Song Name: I Want It That Way
+Preview URL: null
+Album: Punk Goes Pop
+Artist(s): Brittany Howard
+Artist(s): Jim James
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: I Want It That Way
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Kyle Olthoff
+Album: Poodle Hat
+Artist(s): Destiny Jenkins
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: I Want It That Way
+Artist(s): Boyce Avenue
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: New Acoustic Sessions, Vol. 3
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: The Essential "Weird Al" Yankovic
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: NOW That's What I Call 90s Pop
+Artist(s): Steel Panther
+Song Name: I Want It That Way
+Preview URL: null
+Album: I Want It That Way
+Artist(s): Landon Austin & Julia Sheer
+Song Name: I Want It That Way
+Album: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: NKOTBSB
+Artist(s): Scott Bradlee's Postmodern Jukebox
+Artist(s): Shoshana Bean
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: Selfies on Kodachrome
+Song Name: I Want It That Way
+Artist(s): Jason Chen
+Artist(s): Joseph Vincent
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: I Want It That Way
+Artist(s): Scott Bradlee's Postmodern Jukebox
+Artist(s): Shoshana Bean
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: PMJ Is For Lovers: The Love Song Collection
+Artist(s): FROIDZ
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=a44d1be1ce0f4a33bdab1d5904aeb82d
+Album: I Want It That Way
+*******************************
+Command requested: movie-this mr. nobody 
+*******************************
+*******************************
+Command requested: movie-this mr. nobody 
+*******************************
+*******************************
+Command requested: movie-this 
+*******************************
+Title of the movie: Mr. Nobody
+Year of the movie: 2009
+The movie's rating is: 7.9
+Rotten Tomatoes rating is: 64%
+Country where movie was produced: Belgium, Germany, Canada, France, USA, UK
+Language of the movie: English, Mohawk
+Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+*******************************
+Command requested: movie-this Mr. Handsome 
+*******************************
+*******************************
+Command requested: movie-this Mr. Handsome 
+*******************************
+*******************************
+Command requested: movie-this Mr. Handsome 
+*******************************
+*******************************
+Command requested: movie-this Mr. Handsome 
+*******************************
+Title of the movie: undefined
+Year of the movie: undefined
+The movie's rating is: undefined
 There is no Rotten Tomatoes rating for this movie.
+Country where movie was produced: undefined
+Language of the movie: undefined
+Plot of the movie: undefined
+Actors in the movie: undefined
+
+*******************************
+Command requested: movie-this The Matrix 
+*******************************
+Title of the movie: The Matrix
+Year of the movie: 1999
+The movie's rating is: 8.7
+Rotten Tomatoes rating is: 87%
 Country where movie was produced: USA
-Plot of the movie: N/A
 Language of the movie: English
-Actors in the movie: N/A
+Plot of the movie: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors in the movie: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
 
 *******************************
-Command requested: my-tweets 
+Command requested: movie-this sfdsf 
 *******************************
-Tweet created at: "Wed Jul 12 23:24:08 +0000 2017" Tweet: "Big WIN today for building the wall. It will secure the border &amp; save lives. Now the full House &amp; Senate must act!… https://t.co/DuZcyhYck8"
+Title of the movie: undefined
+Year of the movie: undefined
+The movie's rating is: undefined
+There is no Rotten Tomatoes rating for this movie.
+Country where movie was produced: undefined
+Language of the movie: undefined
+Plot of the movie: undefined
+Actors in the movie: undefined
 
-Tweet created at: "Wed Jul 12 23:12:03 +0000 2017" Tweet: "JOBS, JOBS, JOBS! #MAGA🇺🇸 https://t.co/HScS4Y9ZJK"
+*******************************
+Command requested: movie-this Mr. 
+*******************************
+Title of the movie: Mr. & Mrs. Smith
+Year of the movie: 2005
+The movie's rating is: 6.5
+Rotten Tomatoes rating is: 59%
+Country where movie was produced: USA
+Language of the movie: English, Spanish
+Plot of the movie: A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.
+Actors in the movie: Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody
 
-Tweet created at: "Wed Jul 12 23:06:19 +0000 2017" Tweet: "Stock market hits another high with spirit and enthusiasm so positive. Jobs outlook looking very good! #MAGA🇺🇸 https://t.co/Vwxsb2vWGe"
+*******************************
+Command requested: movie-this Mr. 
+*******************************
+Title of the movie: Mr. & Mrs. Smith
+Year of the movie: 2005
+The movie's rating is: 6.5
+Rotten Tomatoes rating is: 59%
+Country where movie was produced: USA
+Language of the movie: English, Spanish
+Plot of the movie: A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.
+Actors in the movie: Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody
 
-Tweet created at: "Wed Jul 12 22:35:53 +0000 2017" Tweet: "Getting rdy to leave for France @ the invitation of President Macron to celebrate &amp; honor Bastille Day and 100yrs since U.S. entry into WWI."
+*******************************
+Command requested: movie-this Mr. 
+*******************************
+Title of the movie: Mr. & Mrs. Smith
+Year of the movie: 2005
+The movie's rating is: 6.5
+Rotten Tomatoes rating is: 59%
+Country where movie was produced: USA
+Language of the movie: English, Spanish
+Plot of the movie: A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.
+Actors in the movie: Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody
 
-Tweet created at: "Wed Jul 12 20:20:56 +0000 2017"
- Tweet: "\"After 14 years, U.S. beef hits Chinese market. Trade deal an exciting opportunity for agriculture.\" https://t.co/gDGgejqFMs"
-Tweet created at: "Wed Jul 12 13:39:25 +0000 2017" Tweet: "The W.H. is functioning perfectly, focused on HealthCare, Tax Cuts/Reform &amp; many other things. I have very little time for watching T.V."
+*******************************
+Command requested: movie-this Mr. 
+*******************************
+Title of the movie: Mr. & Mrs. Smith
+Year of the movie: 2005
+The movie's rating is: 6.5
+Rotten Tomatoes rating is: 59%
+Country where movie was produced: USA
+Language of the movie: English, Spanish
+Plot of the movie: A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.
+Actors in the movie: Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody
 
-Tweet created at: "Wed Jul 12 13:27:03 +0000 2017" Tweet: "Why aren't the same standards placed on the Democrats. Look what Hillary Clinton may have gotten away with. Disgraceful!"
+*******************************
+Command requested: movie-this Mr. 
+*******************************
+Title of the movie: Mr. & Mrs. Smith
+Year of the movie: 2005
+The movie's rating is: 6.5
+Rotten Tomatoes rating is: 59%
+Country where movie was produced: USA
+Language of the movie: English, Spanish
+Plot of the movie: A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.
+Actors in the movie: Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody
 
-Tweet created at: "Wed Jul 12 12:12:42 +0000 2017" Tweet: ".@WashTimes states \"Democrats have willfully used Moscow disinformation to influence the presidential election against Donald Trump.\""
+*******************************
+Command requested: movie-this Mr. and mrs. smith 
+*******************************
+Title of the movie: undefined
+Year of the movie: undefined
+The movie's rating is: undefined
+There is no Rotten Tomatoes rating for this movie.
+Country where movie was produced: undefined
+Language of the movie: undefined
+Plot of the movie: undefined
+Actors in the movie: undefined
 
-Tweet created at: "Wed Jul 12 11:05:53 +0000 2017" Tweet: "ISIS is on the run &amp; will soon be wiped out of Syria &amp; Iraq, illegal border crossings are way down (75%) &amp; MS 13 gangs are being removed."
+*******************************
+Command requested: movie-this Mr. and mrs. smith 
+*******************************
+*******************************
+Command requested: movie-this Mr. and mrs. smith 
+*******************************Movie not found in the database. Please search for another title.
+*******************************
+Command requested: movie-this Mr. and mrs. smith 
+*******************************
+Movie not found in the database. Please search for another title.
+*******************************
+Command requested: movie-this the matrix 
+*******************************
+Title of the movie: The Matrix
+Year of the movie: 1999
+The movie's rating is: 8.7
+Rotten Tomatoes rating is: 87%
+Country where movie was produced: USA
+Language of the movie: English
+Plot of the movie: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors in the movie: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
 
-Tweet created at: "Wed Jul 12 10:40:32 +0000 2017" Tweet: "RT @foxandfriends: Getting the job done! Sen. Mitch McConnell delays August recess to work on health care bill https://t.co/wBjha8ldeK"
+*******************************
+Command requested: movie-this 
+*******************************
+Title of the movie: Mr. Nobody
+Year of the movie: 2009
+The movie's rating is: 7.9
+Rotten Tomatoes rating is: 64%
+Country where movie was produced: Belgium, Germany, Canada, France, USA, UK
+Language of the movie: English, Mohawk
+Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
-Tweet created at: "Wed Jul 12 10:32:56 +0000 2017" Tweet: "Remember, when you hear the words \"sources say\" from the Fake Media, often times those sources are made up and do not exist."
-
-Tweet created at: "Wed Jul 12 10:19:32 +0000 2017" Tweet: "My son Donald did a good job last night. He was open, transparent and innocent. This is the greatest Witch Hunt in political history. Sad!"
-
-Tweet created at: "Wed Jul 12 09:55:47 +0000 2017" Tweet: "RT @FoxNews: .@jessebwatters on @DonaldJTrumpJr meeting with Russian attorney: \"I believe Don Jr. is the victim here.\" #TheFive https://t.c…"
-
-Tweet created at: "Wed Jul 12 00:24:10 +0000 2017" Tweet: "My son, Donald, will be interviewed by @seanhannity tonight at 10:00 P.M. He is a great person who loves our country!"
-
-Tweet created at: "Tue Jul 11 12:57:47 +0000 2017" Tweet: "RT @foxandfriends: FOX NEWS ALERT: U.S. flexes its defense muscles, destroys incoming test missile off coast of Alaska https://t.co/gdpnc6a…"
-
-Tweet created at: "Tue Jul 11 12:23:45 +0000 2017" Tweet: "Big wins against ISIS!"
-
-Tweet created at: "Tue Jul 11 12:09:22 +0000 2017" Tweet: "Marine Plane crash in Mississippi is heartbreaking. Melania and I send our deepest condolences to all!"
-
-Tweet created at: "Tue Jul 11 11:46:00 +0000 2017" Tweet: "Working hard to get the Olympics for the United States (L.A.). Stay tuned!"
-
-Tweet created at: "Tue Jul 11 10:59:58 +0000 2017" Tweet: "The Senate Democrats have only confirmed 48 of 197 Presidential Nominees. They  can't win so all they do is slow things down &amp; obstruct!"
-
-Tweet created at: "Tue Jul 11 10:49:16 +0000 2017" Tweet: "RT @foxandfriends: SEN. CRUZ: It's crazy to go an August recess without having Obamacare repealed. We should work every day until it is don…"
+*******************************
+Command requested: movie-this 
+*******************************
+Title of the movie: Mr. Nobody
+Year of the movie: 2009
+The movie's rating is: 7.9
+Rotten Tomatoes rating is: 64%
+Country where movie was produced: Belgium, Germany, Canada, France, USA, UK
+Language of the movie: English, Mohawk
+Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham

@@ -43,7 +43,7 @@ if (command === "my-tweets") {
 	});
 
 	console.log(client);
-
+  //the tweets can be changed by changing this value. Here we are using the President's twitter
  	var params = {screen_name: 'realDonaldTrump'};
 
 	client.get('statuses/user_timeline', params, function(error, tweets, response) {
@@ -104,8 +104,8 @@ if (command === "spotify-this-song") {
     	return console.log('Error occurred: ' + err);
   	}
 
-
   		for (var i = 0; i < data.tracks.items.length; i++) {
+        console.log("\n");
   			for (var j = 0; j < data.tracks.items[i].artists.length; j++) {
 				console.log("Artist(s): " + data.tracks.items[i].artists[j].name);
 
@@ -129,7 +129,7 @@ if (command === "spotify-this-song") {
     				console.log(err);
   				}
     		});
-			fs.appendFile(textFile, "\nAlbum: " + data.tracks.items[i].album.name + "\n", function(err) {
+			fs.appendFile(textFile, "\nAlbum: " + data.tracks.items[i].album.name, function(err) {
     			if (err) {
     				console.log(err);
   				}
@@ -156,80 +156,90 @@ if (command === "movie-this") {
 			title += process.argv[i] + " ";
 		}
 	}
-	
+  
 	// Then run a request to the OMDB API with the movie specified
 	request("http://www.omdbapi.com/?t=" + title + "&y=&plot=short&apikey=40e9cece", function(error, response, body) {
 
-  // If the request is successful (i.e. if the response status code is 200)
-  	  if (!error && response.statusCode === 200) {
+  // If the request is successful (i.e. if the response status code is 200) and the title exists!
+  	  if (!error && response.statusCode === 200 && JSON.parse(body).Title != null) {
 
-		console.log("Title of the movie: " + JSON.parse(body).Title);
-		console.log("Year of the movie: " + JSON.parse(body).Year);
-    	console.log("The movie's rating is: " + JSON.parse(body).imdbRating);
-    	if (JSON.parse(body).Ratings[1] == null) {
-    		console.log("There is no Rotten Tomatoes rating for this movie.");	
-    	}
-    	else {
-    		console.log("Rotten Tomatoes rating is: " + JSON.parse(body).Ratings[1].Value);
-    	}
-    	console.log("Country where movie was produced: " + JSON.parse(body).Country);
-    	console.log("Language of the movie: " + JSON.parse(body).Language);
-    	console.log("Plot of the movie: " + JSON.parse(body).Plot);
-    	console.log("Actors in the movie: " + JSON.parse(body).Actors);
+    		  console.log("\nTitle of the movie: " + JSON.parse(body).Title);
+    		  console.log("Year of the movie: " + JSON.parse(body).Year);
+        	console.log("The movie's rating is: " + JSON.parse(body).imdbRating);
+        	if (JSON.parse(body).Ratings == null) {
+        		console.log("There is no Rotten Tomatoes rating for this movie.");	
+        	}
+        	else {
+        		console.log("Rotten Tomatoes rating is: " + JSON.parse(body).Ratings[1].Value);
+        	}
+        	console.log("Country where movie was produced: " + JSON.parse(body).Country);
+        	console.log("Language of the movie: " + JSON.parse(body).Language);
+        	console.log("Plot of the movie: " + JSON.parse(body).Plot);
+        	console.log("Actors in the movie: " + JSON.parse(body).Actors);
 
-    	fs.appendFile(textFile, "\nTitle of the movie: " + JSON.parse(body).Title, function(err) {
-    		if (err) {
-    			console.log(err);
-  			}
-    	});
-    	fs.appendFile(textFile, "\nYear of the movie: " + JSON.parse(body).Year, function(err) {
-    		if (err) {
-    			console.log(err);
-  			}
-    	});
-    	fs.appendFile(textFile, "\nThe movie's rating is: " + JSON.parse(body).imdbRating, function(err) {
-    		if (err) {
-    			console.log(err);
-  			}
-    	});
-    	if (JSON.parse(body).Ratings[1] == null) {
-    		fs.appendFile(textFile, "\nThere is no Rotten Tomatoes rating for this movie.", function(err) {
-    			if (err) {
-    				console.log(err);
-    			} 
-    		});
-    	}
-    	else {
-    		fs.appendFile(textFile, "\nRotten Tomatoes rating is: " + JSON.parse(body).Ratings[1].Value, function(err) {
-    			if (err) {
-    				console.log(err);
-  				}
-    		});
-    	}
-    	fs.appendFile(textFile, "\nCountry where movie was produced: " + JSON.parse(body).Country, function(err) {
-    		if (err) {
-    			console.log(err);
-  			}
-    	});
-    	fs.appendFile(textFile, "\nLanguage of the movie: " + JSON.parse(body).Language, function(err) {
-    		if (err) {
-    			console.log(err);
-  			}
-    	});
-    	fs.appendFile(textFile, "\nPlot of the movie: " + JSON.parse(body).Plot, function(err) {
-    		if (err) {
-    			console.log(err);
-  			}
-    	});
-    	fs.appendFile(textFile, "\nActors in the movie: " + JSON.parse(body).Actors + "\n", function(err) {
-    		if (err) {
-    			console.log(err);
-  			}
-    	});
-     } 
+          //append all the console data to the textfile 'log.txt' with nice formatting
+        	fs.appendFile(textFile, "\nTitle of the movie: " + JSON.parse(body).Title, function(err) {
+        		if (err) {
+        			console.log(err);
+      			}
+        	});
+        	fs.appendFile(textFile, "\nYear of the movie: " + JSON.parse(body).Year, function(err) {
+        		if (err) {
+        			console.log(err);
+      			}
+        	});
+        	fs.appendFile(textFile, "\nThe movie's rating is: " + JSON.parse(body).imdbRating, function(err) {
+        		if (err) {
+        			console.log(err);
+      			}
+        	});
+        	if (JSON.parse(body).Ratings == null) {
+        		fs.appendFile(textFile, "\nThere is no Rotten Tomatoes rating for this movie.", function(err) {
+        			if (err) {
+        				console.log(err);
+        			} 
+        		});
+        	}
+        	else {
+        		fs.appendFile(textFile, "\nRotten Tomatoes rating is: " + JSON.parse(body).Ratings[1].Value, function(err) {
+        			if (err) {
+        				console.log(err);
+      				}
+        		});
+        	}
+        	fs.appendFile(textFile, "\nCountry where movie was produced: " + JSON.parse(body).Country, function(err) {
+        		if (err) {
+        			console.log(err);
+      			}
+        	});
+        	fs.appendFile(textFile, "\nLanguage of the movie: " + JSON.parse(body).Language, function(err) {
+        		if (err) {
+        			console.log(err);
+      			}
+        	});
+        	fs.appendFile(textFile, "\nPlot of the movie: " + JSON.parse(body).Plot, function(err) {
+        		if (err) {
+        			console.log(err);
+      			}
+        	});
+        	fs.appendFile(textFile, "\nActors in the movie: " + JSON.parse(body).Actors + "\n", function(err) {
+        		if (err) {
+        			console.log(err);
+      			}
+        	});
+      }
+      //if the movie isnt found in the omdb, print error msg and also log that
+      else {
+        console.log("\nMovie not found in the database. Please search for another title.");
+        fs.appendFile(textFile, "\nMovie not found in the database. Please search for another title.", function(err) {
+            if (err) {
+              console.log(err);
+            }
+        });
+      } 
 	});
 }
-
+//this command will run whatever command and search query is in the random.txt file
 if (command === "do-what-it-says") {
 
   fs.readFile("random.txt", "utf8", function(error, data) {
@@ -239,9 +249,10 @@ if (command === "do-what-it-says") {
     return console.log(error);
   }
 
+  //split the data by csv
   dataArr = data.split(",");
   
-
+  //store the data into global variables
   command = dataArr[0];
   song = dataArr[1];
   title = dataArr[1];
@@ -255,7 +266,7 @@ if (command === "do-what-it-says") {
 //close function
 });
 
-//chooseCommand();
+
 
   
 	
