@@ -1,7 +1,18 @@
 # liri-node-app
 
-Introduction
+NPM Packages Used
+-fs
+Used to log all information searched in the log.txt file to allow the user to reference this information at a later time
+-Prompt
+Used to inform the user what should be typed to access the information category of their choosing. also used to ask the user what specific thing they wish to look up under Spotify and OMDB
+-Twitter
+Used to access my twitter feed and return the latest tweets
+-Spotify
+Used to access the Spotify API and search for song information
+-Request
+Used to request the OMDB API
 
+Introduction
 I created a node.js app called LIRI. LIRI is like Apple's SIRI, except for the bash terminal/CLI.
 
 LIRI is a Language Interpretation and Recognition Interface.
