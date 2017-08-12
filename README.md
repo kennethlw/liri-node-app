@@ -1,15 +1,20 @@
 # liri-node-app
 
 NPM Packages Used
--fs
+
+fs
 Used to log all information searched in the log.txt file to allow the user to reference this information at a later time
--Prompt
+
+Prompt
 Used to inform the user what should be typed to access the information category of their choosing. also used to ask the user what specific thing they wish to look up under Spotify and OMDB
--Twitter
-Used to access my twitter feed and return the latest tweets
--Spotify
+
+Twitter
+Used to access a twitter feed and return the latest tweets
+
+Spotify
 Used to access the Spotify API and search for song information
--Request
+
+Request
 Used to request the OMDB API
 
 Introduction
